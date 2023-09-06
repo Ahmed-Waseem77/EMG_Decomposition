@@ -4,6 +4,10 @@ using template matching
 
 Just Clone and run the .py
 
+- Dependencies 
+  - numpy
+  - matplotlib
+
 # Expected Output on Data in the repo
   - Templates of MUAPs
      ![template_3](https://github.com/Ahmed-Waseem77/EMG_Decomposition/assets/96356943/8a289678-d099-4489-8171-3c7c9a47cebe)
